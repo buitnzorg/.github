@@ -1,0 +1,31 @@
+buitnzorg/.github - Organization Configuration Repository
+========================================================
+
+This is the special .github repository for the buitnzorg organization.
+
+Purpose:
+--------
+This repository serves as the central location for organization-wide
+configuration files and community health documents that will be used
+across all repositories in the buitnzorg organization.
+
+What this repository can contain:
+---------------------------------
+- Default community health files (CODE_OF_CONDUCT.md, CONTRIBUTING.md, etc.)
+- Issue and pull request templates
+- Workflow templates for GitHub Actions
+- Organization profile README (in profile/ directory)
+- Security policies and guidelines
+
+Repository Structure:
+--------------------
+- Root directory: Contains default community health files
+- .github/workflows/: Organization-wide workflow templates
+- profile/: Contains the organization's public profile content
+
+This repository helps maintain consistency and provides default
+configurations that will be inherited by other repositories in
+the organization when they don't have their own versions of these files.
+
+For more information about .github repositories, see:
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
